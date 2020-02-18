@@ -1,5 +1,7 @@
 # How to disappear from an abusive relationship
 
+![image abuse](https://img.huffingtonpost.com/asset/589a2ca42800002700997755.jpg)
+
 I have created this guide as I have seen this problem happening quite a lot. As such, I looked at what would be good solutions for escaping an abusive relationship.
 
 
@@ -173,6 +175,18 @@ I would recommand looking at this video as a start https://www.youtube.com/watch
 Do not forget, you can't always trust the police, as they will comply with the local laws.
 
 
+---
+
+## Fast checklit
+
+- [ ] Defined Exit date
+- [ ] Planned bag strategy
+- [ ] Secure phone
+- [ ] Secure computer(s)
+- [ ] Bank accounts
+- [ ] Housing
+- [ ] Handled work situation
+- [ ] Have emergency contacts in case anything happens on fast dial
 
 
 
