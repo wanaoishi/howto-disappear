@@ -94,6 +94,10 @@ I would personally suggest to have between one to two weeks between the decision
 	Install a VPN and turn it on. You can use https://1.1.1.1/ it is free and works nearly everywhere in the world.
 	Use incognito mode with a browser like Firefox, that you have installed and setup following this setup guide (https://proprivacy.com/privacy-service/guides/firefox-privacy-security-guide) 
 	
+	
+	### Change your user names and passwords 
+	In case your abuser knows how to access your accounts, create new usernames and passwords for your email, IM, online banking, and other sensitive accounts. Even if you don’t think your abuser has your passwords, he may have guessed or used a spyware or keylogging program to get them. Choose passwords that your abuser can’t guess (avoid birthdays, nicknames, and other personal information).
+	
 ---	 
 > If you follow the previous steps you should be on the clear regarding tracking and spying.
 ---
