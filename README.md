@@ -33,7 +33,7 @@ I would personally suggest having between one to two weeks between the decision 
 	- Now use the new email to set up the phone 
 	- Put the new SD card
 	- Turn off GPS when not needed.
-	- Create a new GOJEK/Grab accounts. And never send money to them from your account or previous gojek account. 
+	- Create a new ride/food app Foodora/Uber/GOJEK/Grab accounts. And never send money to them from your bank account or a previous account. 
 	- Do not install Facebook, Instagram, or any social media previously used.
 	- Install WhatsApp or any communication software needed but not Facebook messenger. 
 	- In settings > Privacy block the localisation for all communication software, to ensure not to be tracked.
