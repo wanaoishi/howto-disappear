@@ -7,13 +7,13 @@ I have created this guide as I have seen this problem happening quite a lot. As 
 
 > The solutions listed are just some of the potential solutions existing and they also are not exhaustive. As such, if anyone has proposals for modifications or addons, please use the pull request or message me.
 
-__One of the important point, each situation is different, and this guide is trying to be as generic as possible. So you will have to adapt it to the timeframe that you have. The less time you have to prepare the more you will have to leave behind for your own security__
+__One of the important points, each situation is different, and this guide is trying to be as generic as possible. So you will have to adapt it to the timeframe that you have. The less time you have to prepare the more you will have to leave behind for your own security__
 I would personally suggest to have between one to two weeks between the decision and the final exit. You will have to be the judge of that depending of how you feel your life is at risk.
 
 
 ---
 
-## Disappear digitally
+## Disappearing digitally
 - No use of social media for the period. 
 - Remove location to all WA, Line, Messenger, ...
 
@@ -102,7 +102,7 @@ I would personally suggest to have between one to two weeks between the decision
 > If you follow the previous steps you should be on the clear regarding tracking and spying.
 ---
 
-## Disapeering physically 
+## Disappearing physically 
 
 When you leave the house it means also leaving your belongings. And you don't have a lot of time to prepare, from 24h to 3 weeks depending on the situation.
 
@@ -181,7 +181,7 @@ Do not forget, you can't always trust the police, as they will comply with the l
 
 ---
 
-## Fast checklit
+## Fast checklist
 
 - [ ] Defined Exit date
 - [ ] Planned bag strategy
